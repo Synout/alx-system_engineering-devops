@@ -1,0 +1,3 @@
+#!/bin/bash
+touch '%s' "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+
